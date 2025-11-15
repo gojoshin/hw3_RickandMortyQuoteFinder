@@ -1,0 +1,21 @@
+{
+  "name": "Hw-3Rick and Morty Quote Finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "postinstall": "patch-package",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "fetch": "^1.1.0",
+    "patch-package": "^8.0.1",
+    "rick-and-morty-forever": "^0.0.15"
+  }
+}

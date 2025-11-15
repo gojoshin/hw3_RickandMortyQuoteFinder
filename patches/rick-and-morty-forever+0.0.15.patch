@@ -1,0 +1,17 @@
+diff --git a/node_modules/rick-and-morty-forever/characters.json b/node_modules/rick-and-morty-forever/characters.json
+index 21ef165..26282af 100644
+--- a/node_modules/rick-and-morty-forever/characters.json
++++ b/node_modules/rick-and-morty-forever/characters.json
+@@ -17,6 +17,12 @@
+   "summer": [
+     "Boo nah?",
+     "Losers look stuff up while the rest of us are busy carpin all them diems"
++  ],
++  "jerry": [
++    "I’m not a monster. I’m just ahead of the curve."
++  ],
++  "mr.": [
++    "I'm Mr. Meeseeks! Look at me!"
+   ]
+ 
+ }
